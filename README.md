@@ -39,15 +39,32 @@ Preconditions: User has a device model to input.
 Postconditions: User sees the estimated credit points and understands the value of proper e-waste disposal.
 
 ## Technology Stack
-1.Geocoding API for geographical coordinates
+#### 1.Frontend:
+Frameworks: React.js, Vue.js
+Description: Develop a responsive web interface and mobile application for seamless user interaction and accessibility.
 
-2.PostgreSQL 15.4, MySQL 5.7.43 for database
+#### 2.Backend:
+Languages: Python, Node.js
+Database: MongoDB, PostgreSQL
+Description: Build a robust backend system to manage user data, facility information, and credit points transactions.
 
-3.Jupyter Notebook 7.0.3 for image recognition using Tensorflow
+#### 3.Geolocation Services:
+API: Google Maps API, Mapbox API
+Description: Utilize geolocation services to provide accurate location-based information on e-waste collection facilities.
+
+#### 4.Notification System:
+Service: Twilio, Firebase Cloud Messaging
+Description: Implement a notification system to send alerts and reminders to users regarding e-waste disposal and recycling options.
 
 ## Dependencies
-Mapping Services – 10 Days
+#### 1.Collaboration with E-Waste Facilities:
+Establish partnerships with e-waste collection and recycling facilities to integrate their services into the platform.
 
-Data Collection – 15 Days
+#### 2.Regulatory Compliance:
+Ensure compliance with local regulations and environmental standards for e-waste management and recycling.
 
-Estimated Budget – Rs.30,000
+#### 3.Public Engagement:
+Collaborate with environmental organizations and community groups to promote the platform and encourage public participation in responsible e-waste disposal.
+
+#### 4.Technological Infrastructure:
+Depend on reliable internet connectivity and technological infrastructure to support the platform's functionalities and user engagement.
